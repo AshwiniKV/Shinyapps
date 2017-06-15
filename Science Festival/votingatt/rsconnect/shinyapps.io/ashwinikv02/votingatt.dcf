@@ -1,0 +1,11 @@
+name: votingatt
+title: votingatt
+account: ashwinikv02
+server: shinyapps.io
+appId: 188727
+bundleId: 865443
+url: https://ashwinikv02.shinyapps.io/votingatt/
+when: 1497369512.84967
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Science Fest Code.Rmd

@@ -1,0 +1,11 @@
+name: voting_attitudes
+title: Voting Attitudes
+account: ashwinikv
+server: shinyapps.io
+appId: 187485
+bundleId: 864794
+url: https://ashwinikv.shinyapps.io/voting_attitudes/
+when: 1497343142.59103
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Science Fest Code.Rmd

@@ -1,0 +1,11 @@
+name: education
+title: education
+account: ashwinikv
+server: shinyapps.io
+appId: 187502
+bundleId: 864863
+url: https://ashwinikv.shinyapps.io/education/
+when: 1497346047.22417
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: GBR_adm1.rds
